@@ -1,0 +1,18 @@
+.parent{
+    
+    text-align: center;
+    background-position: center;
+    background-size: cover;
+    width: 33%;
+ 
+}
+.child{
+    width: 100%;
+    height: auto;
+}
+.parent h3{
+    color: red;
+}
+.parent p{
+    text-align: center
+}
